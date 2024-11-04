@@ -1,6 +1,6 @@
 ## 🤘 Sobre
 
-Repositório do projeto de testes automatizados da aplicação de gerenciamento de tarefas MarkL, construído no curso Playwright eXpress! O Playwright é uma ferramenta de código aberto desenvolvida pela Microsoft que revoluciona a automação de testes em sistemas web, oferecendo uma abordagem eficaz e altamente confiável.
+Repositório do projeto de testes automatizados da aplicação de gerenciamento de tarefas Mark L, construído no curso Playwright eXpress! O Playwright é uma ferramenta de código aberto desenvolvida pela Microsoft que revoluciona a automação de testes em sistemas web, oferecendo uma abordagem eficaz e altamente confiável.
 
 ## 💻 Tecnologias
 - Node.js
