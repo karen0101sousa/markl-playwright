@@ -5,7 +5,7 @@ Repositório do projeto de testes automatizados da aplicação de gerenciamento 
 ## 💻 Tecnologias
 - Node.js
 - Playwright
-- Javascript
+- Typescript
 - Faker
 - Insomnia
 
